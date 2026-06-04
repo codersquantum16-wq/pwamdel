@@ -1,0 +1,133 @@
+{
+ "short_name": "Lista PWA",
+ "name": "PWA con Lista",
+ "id": "/index.html",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "theme_color": "#fffbfe",
+ "background_color": "#fffbfe",
+ "display_override": [
+  "window-controls-overlay"
+ ],
+ "description": "Ejemplos de una lista con Material Design 3.",
+ "screenshots": [
+  {
+   "src": "/img/screenshot_horizontal.png",
+   "sizes": "699x389",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "Lista con Material Design 3."
+  },
+  {
+   "src": "/img/screenshot_vertical.png",
+   "sizes": "595x644",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Lista con Material Design 3. (2)"
+  }
+ ],
+ "icons": [
+  {
+   "purpose": "maskable",
+   "sizes": "3413x3413",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "48x48",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "72x72",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "96x96",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "128x128",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "192x192",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "384x384",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "maskable",
+   "sizes": "512x512",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "3413x3413",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "48x48",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "72x72",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "96x96",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "128x128",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "192x192",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "384x384",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "512x512",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  },
+  {
+   "purpose": "any",
+   "sizes": "2048x2048",
+   "src": "img/Quantum Coders Logo.png",
+   "type": "image/png"
+  }
+ ]
+}
